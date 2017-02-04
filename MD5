@@ -1,0 +1,17 @@
+ec9ca40a066ff764090f69871bc2b8b3 *DESCRIPTION
+0a3b82872c75388d614a3e00e95247fb *NAMESPACE
+1c6b0cff9c5bf016182645e565c4a3e1 *R/createCutoffsDF.R
+eee93bef4b54cc3abf1f5baad9b5061c *R/data.R
+8d6ba4585d1963c5fb3dbbb08bc817ad *R/findCutoffs.R
+8241d396ffd9de956583cabe5805eb5e *R/gradeBus.R
+0f7c0189017ddaa378fe80fcef849432 *R/percentileSeek.R
+c3c4d1f9909a21aa825629b6bff735f8 *data/X.kc.rda
+395774e0a52490b9bd97b627ee390733 *data/zips.kc.rda
+7c3c5ae917d5cb6ead37e3060204ffb1 *man/X.kc.Rd
+a14d6b206cf18e6ebcfa52fe1bda5b71 *man/createCutoffsDF.Rd
+525d5948a799f457e4e25d3196f47078 *man/findCutoffs.Rd
+38ff36a776ddcdcc3d8164af3bf71fc5 *man/gradeAllBus.Rd
+8e26bd6fe73ce063b6317131ed09a02b *man/gradeBus.Rd
+f783b435d2c3f1de102ce6576abcc37e *man/percentileSeek.Rd
+7894ae53d36672c2c298f3f553509068 *man/updateGamma.Rd
+a129d63eb92e96b5c01c1134b43bb8ab *man/zips.kc.Rd
